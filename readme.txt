@@ -11,7 +11,7 @@ For occasions where you don't want to name a post author in the RSS feeds.
 
 This plugin removes the author names from the feeds in your site, replacing them with the title of the site. There are no options or settings screens.
 
-Plugin development is run on the [Github repository]().
+Plugin development is run on the [Github repository](https://github.com/cftp/anonymise-feed).
 
 == Installation ==
 
